@@ -2,6 +2,10 @@ h1{
 color: red;
 }
 
+h1{
+font-size: smaller;
+}
+
 body{
 font-family : "comic sans ms";    
 }
